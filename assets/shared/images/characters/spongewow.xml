@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spongewow.png"><SubTexture name="spongewow down0000" x="0" y="0" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow down0001" x="1404" y="0" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow down0002" x="2808" y="0" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow down0003" x="4212" y="0" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow down0004" x="5616" y="0" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow idle0000" x="0" y="1904" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow idle0001" x="1404" y="1904" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow idle0002" x="2808" y="1904" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow idle0003" x="4212" y="1904" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow idle0004" x="5616" y="1904" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow idle0005" x="0" y="3808" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow idle0006" x="1404" y="3808" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow idle0007" x="2808" y="3808" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow idle0008" x="4212" y="3808" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow idle0009" x="5616" y="3808" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow idle0010" x="0" y="5712" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow left0000" x="1404" y="5712" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow left0001" x="2808" y="5712" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow left0002" x="4212" y="5712" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow left0003" x="5616" y="5712" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow left0004" x="0" y="7616" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow right0000" x="1404" y="7616" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow right0001" x="2808" y="7616" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow right0002" x="4212" y="7616" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow right0003" x="5616" y="7616" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow right0004" x="0" y="9520" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow up0000" x="1404" y="9520" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow up0001" x="2808" y="9520" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow up0002" x="4212" y="9520" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow up0003" x="5616" y="9520" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="spongewow up0004" x="0" y="11424" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+</TextureAtlas>

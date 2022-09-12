@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-kitchen.png"><SubTexture name="bf-kitchen down0000" x="0" y="0" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen down0001" x="1104" y="0" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen down0002" x="2208" y="0" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen idle0000" x="3312" y="0" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen idle0001" x="0" y="1304" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen idle0002" x="1104" y="1304" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen idle0003" x="2208" y="1304" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen idle0004" x="3312" y="1304" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen idle0005" x="0" y="2608" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen idle0006" x="1104" y="2608" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen right0000" x="2208" y="2608" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen right0001" x="3312" y="2608" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen right0002" x="0" y="3912" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen left0000" x="1104" y="3912" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen left0001" x="2208" y="3912" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen left0002" x="3312" y="3912" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen up0000" x="0" y="5216" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen up0001" x="1104" y="5216" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="bf-kitchen up0002" x="2208" y="5216" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+</TextureAtlas>

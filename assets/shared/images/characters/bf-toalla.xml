@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="toalla.png"><SubTexture name="toalla down0000" x="0" y="0" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla down0001" x="1304" y="0" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla down0002" x="2608" y="0" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla idle0000" x="3912" y="0" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla idle0001" x="0" y="1604" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla idle0002" x="1304" y="1604" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla idle0003" x="2608" y="1604" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla idle0004" x="3912" y="1604" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla idle0005" x="0" y="3208" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla idle0006" x="1304" y="3208" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla idle0007" x="2608" y="3208" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla idle0008" x="3912" y="3208" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla left0000" x="0" y="4812" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla left0001" x="1304" y="4812" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla left0002" x="2608" y="4812" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla miss0000" x="3912" y="4812" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla right0000" x="0" y="6416" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla right0001" x="1304" y="6416" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla right0002" x="2608" y="6416" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla up0000" x="3912" y="6416" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla up0001" x="0" y="8020" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+<SubTexture name="toalla up0002" x="1304" y="8020" width="1304" height="1604" frameX="0" frameY="0" frameWidth="1304" frameHeight="1604" />
+</TextureAtlas>

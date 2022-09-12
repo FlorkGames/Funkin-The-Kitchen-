@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="spongebob-kitchen.png"><SubTexture name="spongebob-kitchen idle0000" x="0" y="0" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="spongebob-kitchen idle0001" x="1104" y="0" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="spongebob-kitchen idle0002" x="0" y="1304" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="spongebob-kitchen idle0003" x="1104" y="1304" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="spongebob-kitchen idle0004" x="0" y="2608" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+<SubTexture name="spongebob-kitchen idle0005" x="1104" y="2608" width="1104" height="1304" frameX="0" frameY="0" frameWidth="1104" frameHeight="1304" />
+</TextureAtlas>

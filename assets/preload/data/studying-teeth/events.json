@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "dad",
+		"player3": null,
+		"events": [
+			[
+				98400,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Image Flash",
+						"black",
+						"9999999999999999"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "studying-teeth"
+	}
+}

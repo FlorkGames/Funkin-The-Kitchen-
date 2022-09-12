@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"offsets": [
+				28,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				50
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pico Note Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				28
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pico NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "micro idle"
+		},
+		{
+			"offsets": [
+				21,
+				27
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "micro up"
+		},
+		{
+			"offsets": [
+				84,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "micro down"
+		},
+		{
+			"offsets": [
+				-48,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "micro right"
+		},
+		{
+			"offsets": [
+				85,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "micro left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/girl",
+	"position": [
+		0,
+		280
+	],
+	"healthicon": "girl",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		195,
+		195
+	],
+	"camera_position": [
+		50,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

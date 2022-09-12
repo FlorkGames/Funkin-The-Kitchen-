@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				20,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-6,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "leftmiss"
+		},
+		{
+			"offsets": [
+				-7,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "downmiss"
+		},
+		{
+			"offsets": [
+				-15,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "upmiss"
+		},
+		{
+			"offsets": [
+				-15,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "rightmiss"
+		},
+		{
+			"offsets": [
+				-13,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-15,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-22,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bob-gartic",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bob-gartic",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		240,
+		106
+	],
+	"camera_position": [
+		40,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

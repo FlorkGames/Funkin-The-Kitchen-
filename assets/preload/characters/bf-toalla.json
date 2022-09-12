@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "toalla idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "toalla left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "toalla down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "toalla up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "toalla right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "toalla miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-10
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "toalla miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-10
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "toalla miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-10
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "toalla miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-toalla",
+	"position": [
+		-330,
+		-430
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-360,
+		410
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

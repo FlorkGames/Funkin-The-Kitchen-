@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="scabs.png"><SubTexture name="scabs idle0000" x="0" y="0" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0001" x="1404" y="0" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0002" x="2808" y="0" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0003" x="4212" y="0" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0004" x="5616" y="0" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0005" x="0" y="1704" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0006" x="1404" y="1704" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0007" x="2808" y="1704" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0008" x="4212" y="1704" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0009" x="5616" y="1704" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0010" x="0" y="3408" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0011" x="1404" y="3408" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs idle0012" x="2808" y="3408" width="1404" height="1704" frameX="0" frameY="0" frameWidth="1404" frameHeight="1704" />
+<SubTexture name="scabs up0000" x="4212" y="3408" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="scabs up0001" x="5616" y="3408" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="scabs up0002" x="0" y="5312" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="scabs down0000" x="1404" y="5312" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="scabs down0001" x="2808" y="5312" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="scabs down0002" x="4212" y="5312" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="scabs right0000" x="5616" y="5312" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="scabs right0001" x="0" y="7216" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="scabs right0002" x="1404" y="7216" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="scabs left0000" x="2808" y="7216" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="scabs left0001" x="4212" y="7216" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+<SubTexture name="scabs left0002" x="5616" y="7216" width="1404" height="1904" frameX="0" frameY="0" frameWidth="1404" frameHeight="1904" />
+</TextureAtlas>

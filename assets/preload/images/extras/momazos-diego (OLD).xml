@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="momazos.png"><SubTexture name="momazos down0000" x="0" y="0" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos down0001" x="1204" y="0" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos down0002" x="2408" y="0" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos down0003" x="3612" y="0" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos down0004" x="4816" y="0" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos idle0000" x="0" y="1377" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos idle0001" x="1204" y="1377" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos idle0002" x="2408" y="1377" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos idle0003" x="3612" y="1377" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos idle0004" x="4816" y="1377" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos idle0005" x="0" y="2754" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos idle0006" x="1204" y="2754" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos left0000" x="2408" y="2754" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos left0001" x="3612" y="2754" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos left0002" x="4816" y="2754" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos left0003" x="0" y="4131" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos left0004" x="1204" y="4131" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos right0000" x="2408" y="4131" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos right0001" x="3612" y="4131" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos right0002" x="4816" y="4131" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos right0003" x="0" y="5508" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos right0004" x="1204" y="5508" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos up0000" x="2408" y="5508" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos up0001" x="3612" y="5508" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos up0002" x="4816" y="5508" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos up0003" x="0" y="6885" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+<SubTexture name="momazos up0004" x="1204" y="6885" width="1204" height="1377" frameX="0" frameY="0" frameWidth="1204" frameHeight="1377" />
+</TextureAtlas>
